@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @athishjobin
-- 👀 I’m interested in Data Science
+- 👀 Interested in Data Science
 - 🌱 I’m currently Working as operations Executive in Infosys
-- 🌱 self practicing on Data analysis
+- ✨#numpy #pandas #matplotlib #seaborn #sql #powerbi
 - 📫 athishjobin2017@gmail.com
       9633662942
 
